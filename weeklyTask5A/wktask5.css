@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+}
+.maincontainer{
+    background-color: rgb(8, 3, 71);
+    background-image: url('./images/bg-pattern-intro-right-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 280px;
+    background-position: top right ;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+form div {
+    margin: 10px;
+}
+form div input{
+    width: 70%;
+    height: 20px;
+
+}
+input{
+    background-color: rgb(243, 243, 31);
+    font-size: large;
+    font-family: serif;
+    font-weight: 400;
+}
+fieldset{
+    margin: 20px 40px;
+    padding: 50px 0px 50px 0px;
+}
